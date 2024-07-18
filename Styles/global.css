@@ -12,7 +12,7 @@
     --shape-transparency: hsl(#ffffff, 100% , 56%);
     --text-color-primary: #313131;
     --text-color-secundary: #6c6c6c8f;
---font-family: "Poppins", sans-serif;
+    --font-family: "Poppins", sans-serif;
     --text-lg: bold 32px/125% var(--font-family);
     --text-md: 14px/170% var(--font-family);
     --text-sm: 12px/170% var(--font-family);
@@ -42,5 +42,5 @@ a:hover{
 }
 
 .bg-surface-color{
-    background-color: var(--surface-color);
+    background-color: var(--surface-color)  ;
 }

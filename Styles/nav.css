@@ -5,7 +5,7 @@ nav {
     justify-content: space-between;
 }
 
-ul {
+nav > ul {
     list-style: none;
     display: flex;
     align-items: center;
@@ -19,3 +19,4 @@ nav ul li:last-child img {
     object-fit: cover;
     border-radius: 50px;
 }
+
